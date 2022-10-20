@@ -4,11 +4,11 @@
 
 1. `/SVC/Project2_Final_Model.ipynb`: Notebook for Linear SVC model predictions. Predictions used for one of the final Kaggle submissions.
 
-2. `NaiveBayes/Project2NaiveBayes.ipynb`: Notebook for Naive Bayes model. Predictions used for one of the final Kaggle submissions.
+2. `/NaiveBayes/Project2NaiveBayes.ipynb`: Notebook for Naive Bayes model. Predictions used for one of the final Kaggle submissions.
 
 3. `/MLP/Project_2_Limited_Data.ipynb`: Notebook for MLP model. Model is discussed in the report, but was not use for the final Kaggle submission.
 
-4. `RNN/Project2RNN.ipynb`: Notebook for RNN model. Model was not used in report or final Kaggle submissions.
+4. `/RNN/Project2RNN.ipynb`: Notebook for RNN model. Model was not used in report or final Kaggle submissions.
 
 **Final submissions to competition were from Naive Bayes and Linear SVC models**
 
